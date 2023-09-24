@@ -6,3 +6,14 @@
   align-items: center;
   width: 100%;
 }
+.filtros{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 6rem;
+}
+.filtros > div{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
