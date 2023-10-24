@@ -1,0 +1,15 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.Google_translate_clone {
+  display: flex;
+  flex-direction: column;
+
+}
+.Translate{
+  display: flex;
+  align-items: center;
+}
